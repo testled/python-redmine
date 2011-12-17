@@ -1,0 +1,43 @@
+{
+    "total_count": 4,
+    "limit": 25,
+    "offset": 0,
+    "projects": [
+        {
+            "description": "Test Project 1 Description",
+            "updated_on": "2011/11/04 09:38:41 +0000",
+            "identifier": "test-project-1",
+            "name": "Test Project 1",
+            "created_on": "2011/11/04 09:38:41 +0000",
+            "id": 1,
+            "custom_fields": [{ "id": 1, "value": "qwerty", "name": "Custom Field 1" }]
+        },
+        {
+            "description": "Test Project 2 Description",
+            "updated_on": "2011/11/04 09:38:41 +0000",
+            "identifier": "test-project-2",
+            "name": "Test Project 2",
+            "created_on": "2011/11/04 09:38:41 +0000",
+            "id": 2,
+            "custom_fields": [{ "id": 1, "value": "qwerty", "name": "Custom Field 1" }]
+        },
+        {
+            "description": "Test Project 3 Description",
+            "updated_on": "2011/11/04 09:38:41 +0000",
+            "identifier": "test-project-3",
+            "name": "Test Project 3",
+            "created_on": "2011/11/04 09:38:41 +0000",
+            "id": 3,
+            "custom_fields": [{ "id": 1, "value": "qwerty", "name": "Custom Field 1" }]
+        },
+        {
+            "description": "Test Project 4 Description",
+            "updated_on": "2011/11/04 09:38:41 +0000",
+            "identifier": "test-project-4",
+            "name": "Test Project 4",
+            "created_on": "2011/11/04 09:38:41 +0000",
+            "id": 4,
+            "custom_fields": [{ "id": 1, "value": "qwerty", "name": "Custom Field 1" }]
+        }
+    ]
+}
